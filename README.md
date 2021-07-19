@@ -10,6 +10,6 @@ This is a website used to generate a random password using the qualification in 
 
 # Password Generator Link and Screenshot
 
-https://adwhitn.github.io/Password-Project/
+[Password Generator Website](https://adwhitn.github.io/Password-Project/) 
 
 ![image](https://user-images.githubusercontent.com/85328844/126099388-338923db-4b6c-4c82-b915-62512231fd2f.png)
