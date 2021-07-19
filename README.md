@@ -12,5 +12,4 @@ This is a website used to generate a random password using the qualification in 
 
 https://adwhitn.github.io/Password-Project/
 
-https://user-images.githubusercontent.com/85328844/126098870-4dd4ce37-14e7-4115-8b2c-2608068b5a50.png
-
+![image](https://user-images.githubusercontent.com/85328844/126099388-338923db-4b6c-4c82-b915-62512231fd2f.png)
